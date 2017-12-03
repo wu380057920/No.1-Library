@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Jack","characterIndex":0,"characterName":"Jack","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Jack","traits":[],"initialLevel":1,"maxLevel":99,"name":"杰克","nickname":"","note":"","profile":"是个内心中充满阳光的人，但偶尔有些自大。\n从祖先那里继承来了一座禁闭的图书馆，但是由于好奇心，他选择了偷偷潜入一探究竟。"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

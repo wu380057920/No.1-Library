@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"图书馆","order":1,"parentId":0,"scrollX":809,"scrollY":620},
+{"id":2,"expanded":false,"name":"Start","order":2,"parentId":1,"scrollX":817,"scrollY":460},
+{"id":3,"expanded":false,"name":"密室","order":3,"parentId":1,"scrollX":817,"scrollY":460},
+{"id":4,"expanded":false,"name":"财富","order":4,"parentId":1,"scrollX":817,"scrollY":460},
+{"id":5,"expanded":false,"name":"END","order":5,"parentId":1,"scrollX":817,"scrollY":460}
+]
